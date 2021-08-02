@@ -2,7 +2,7 @@
   "name": "rrrrt",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://Mazak1983.github.io/public/",
+  "homepage": "https://Mazak1983.github.io/public/index.html",
   "main": "index.js",
   "scripts": {
     "start": "cross-env PORT=10888 HTTPS=true react-scripts start",
